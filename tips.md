@@ -11,5 +11,7 @@ npm i -g @angular/cli@latest //instalar angular CLI
 npm start  //correr el server del proyecto
 ```
 
+**Instalar  plugin en VS Code**
 
+![](.gitbook/assets/image.png)
 

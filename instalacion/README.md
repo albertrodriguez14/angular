@@ -15,6 +15,15 @@ $ npm i -g @angular/cli@latest  para instalar angular CLI
 $ ng version   para ver la version angular CLI
 $ ng help
 $ ng new --help
+
+o  su manera si tines instalado angular version anterior 
+y deseas actualizar a una version actual 
+
+npm uninstall -g @angular/cli
+ // desintalar version  y 
+despues instlar la version
+
+
 ```
 
 ##  <a id="2-Crear-y-ejecutar-una-aplicacion-Angular-9"></a>
