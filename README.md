@@ -1,6 +1,6 @@
 # Angular
 
-**Angular** es un _framework opensource_ desarrollado por Google para facilitar la creación y programación de aplicaciones web de una sola página, las webs SPA _\(Single Page_ _Application_\).
+Angular es un poderoso _framework opensource_ desarrollado por Google para facilitar la creación y programación de aplicaciones web de una sola página, las webs SPA _\(Single Page_ _Application_\).
 
 Angular separa completamente el frontend y el backend en la aplicación, evita escribir código repetitivo y mantiene todo más ordenado gracias a su patrón MVC \(Modelo-Vista-Controlador\) asegurando los desarrollos con rapidez, a la vez que posibilita modificaciones y actualizaciones.
 
