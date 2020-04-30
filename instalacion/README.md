@@ -20,8 +20,7 @@ o  su manera si tines instalado angular version anterior
 y deseas actualizar a una version actual 
 
 npm uninstall -g @angular/cli
- // desintalar version  y 
-despues instlar la version
+ // desintalar version  y despues instlar la version
 
 
 ```
