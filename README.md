@@ -10,9 +10,9 @@ Solamente es una ruta la que se tiene que enviar el servidor, y Angular lo que h
 
 Entre otras ventajas, este _framework_ es modular y escalable adaptándose a nuestras necesidades y al estar basado en el estándar de componentes web, y con un conjunto de interfaz de programación de aplicaciones \(API\) permite crear nuevas etiquetas HTML personalizadas que pueden reutilizarse.
 
-El lenguaje principal de programación de Angular es _Typescript_, y así toda la sintaxis y el modo de hacer las cosas en el código es el mismo, lo que añade coherencia y consistencia a la información, permitiendo por ejemplo, la incorporación de nuevos programadores, en caso de ser necesarios, ya que pueden continuar su trabajo sin excesiva dificultad. 
+El lenguaje principal de programación de Angular es _Typescript_, y así toda la sintaxis y el modo de hacer las cosas en el código es el mismo, lo que añade coherencia y consistencia a la información, permitiendo por ejemplo, la incorporación de nuevos programadores, en caso de ser necesarios, ya que pueden continuar su trabajo sin excesiva dificultad.
 
-Como ya se ha indicado, las plantillas de Angular almacenan por separado el código de la interfaz del usuario \(front-end\) y el de la lógica de negocio \(back-end\), que entre otros beneficios permite utilizar mejor otras herramientas anteriormente existentes. 
+Como ya se ha indicado, las plantillas de Angular almacenan por separado el código de la interfaz del usuario \(front-end\) y el de la lógica de negocio \(back-end\), que entre otros beneficios permite utilizar mejor otras herramientas anteriormente existentes.
 
 Y por si fuera poco, los principales editores y entornos de desarrollo integrado \(IDEs\) ofrecen ya extensiones para poder trabajar con este framework con mayor comodidad.
 
