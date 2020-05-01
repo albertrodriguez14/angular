@@ -15,3 +15,16 @@ npm start  //correr el server del proyecto
 
 ![](.gitbook/assets/image.png)
 
+```text
+Ejecutar serve
+-------------------------------------------
+ng serve 
+ng serve --port 0000 // para cambiar el puerto por defecto
+
+------------------------------------------
+
+
+```
+
+
+
