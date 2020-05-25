@@ -13,7 +13,7 @@ npm start  //correr el server del proyecto
 
 **Instalar  plugin en VS Code**
 
-![](../.gitbook/assets/image.png)
+![](../../.gitbook/assets/image.png)
 
 ```text
 Ejecutar serve

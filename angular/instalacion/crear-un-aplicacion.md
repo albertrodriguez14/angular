@@ -18,13 +18,13 @@ npm start
 
 primero nos ubicamos en el directorio que estará alojado el proyecto
 
-![](../.gitbook/assets/image%20%283%29.png)
+![](../../.gitbook/assets/image%20%283%29.png)
 
-![preguntara si el proyecto se agregara rutas le respondes  que si Y](../.gitbook/assets/image%20%284%29.png)
+![preguntara si el proyecto se agregara rutas le respondes  que si Y](../../.gitbook/assets/image%20%284%29.png)
 
-![despues pregunta si los archivo de estilo sera css o sass escoger una de las opciones ](../.gitbook/assets/image%20%285%29.png)
+![despues pregunta si los archivo de estilo sera css o sass escoger una de las opciones ](../../.gitbook/assets/image%20%285%29.png)
 
-![](../.gitbook/assets/image%20%286%29.png)
+![](../../.gitbook/assets/image%20%286%29.png)
 
 para correr el serve nos dirigimos al directorio del proyecto con la consola y ejecutamos ng serve.
 
