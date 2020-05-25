@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Angular](README.md)
+* [FRONTEND](README.md)
 * [Angular](angular.md)
 * [Untitled](untitled.md)
 * [Instalacion](instalacion/README.md)
