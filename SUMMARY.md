@@ -6,5 +6,6 @@
     * [Crear un aplicación](angular/instalacion/crear-un-aplicacion.md)
     * [Estructura de una aplicación Angular](angular/instalacion/estructura-de-una-aplicacion-angular.md)
     * [Tips](angular/instalacion/tips.md)
-* [VUE.JS](untitled.md)
+* [VUE.JS](untitled/README.md)
+  * [Directivas](untitled/directivas.md)
 
