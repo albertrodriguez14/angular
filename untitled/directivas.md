@@ -39,7 +39,7 @@ las directivas  inician con la letra V  y seguido de nombre  ejemplo v-directiva
 
 \*\*\*\*
 
-**v-if     v-else**
+**v-if    /  v-else**
 
 ```text
  <div id="app">
@@ -65,7 +65,7 @@ las directivas  inician con la letra V  y seguido de nombre  ejemplo v-directiva
 
 \*\*\*\*
 
-v-on:click 
+**v-on:click** 
 
 ```text
 <button class="btn btn-primary btn-md" @click="addnewtask">+</button>
@@ -81,5 +81,10 @@ v-on:click
           },
 ```
 
+**v-on:keyup**
 
+```text
+ <input  v-on:keyup.enter="addnewtask" 
+  class="form-control" v-model="newtask" type="text" />
+```
 
