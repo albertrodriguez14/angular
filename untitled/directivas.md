@@ -65,7 +65,21 @@ las directivas  inician con la letra V  y seguido de nombre  ejemplo v-directiva
 
 \*\*\*\*
 
+v-on:click 
 
+```text
+<button class="btn btn-primary btn-md" @click="addnewtask">+</button>
+
+
+ methods: {
+          addnewtask: function () {
+            this.task.push({
+              nombre: this.newtask,
+              completa: false,
+            });
+            this.newtask = "";
+          },
+```
 
 
 
