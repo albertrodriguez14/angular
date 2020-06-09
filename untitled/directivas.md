@@ -81,16 +81,6 @@ las directivas  inician con la letra V  y seguido de nombre  ejemplo v-directiva
           },
 ```
 
-```text
-@click="messages.Completa = false"
-
- task: [
-          { nombre: "mi z", Completa: true },
-          { nombre: "mi 2", Completa: false },
-          { nombre: "mi 3", Completa: true },
-          { nombre: "mi 5", Completa: true },
-```
-
 **v-on:keyup**
 
 ```text

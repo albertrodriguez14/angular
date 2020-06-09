@@ -1,0 +1,2 @@
+# funciones o métodos
+

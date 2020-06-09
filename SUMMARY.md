@@ -8,4 +8,5 @@
     * [Tips](angular/instalacion/tips.md)
 * [VUE.JS](untitled/README.md)
   * [Directivas](untitled/directivas.md)
+  * [funciones o métodos](untitled/funciones-o-metodos.md)
 
