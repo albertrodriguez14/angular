@@ -42,3 +42,5 @@ code here
       }
 ```
 
+la diferencias es que en los methods se utiliza cada instante cuando se escribe cada palabras en el input , y la computada solo se utiliza cuando  se actualiza el evento.
+
