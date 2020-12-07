@@ -41,6 +41,8 @@ las directivas  inician con la letra V  y seguido de nombre  ejemplo v-directiva
 
 **v-if    /  v-else**
 
+condicionales 
+
 ```text
  <div id="app">
                
@@ -67,6 +69,8 @@ las directivas  inician con la letra V  y seguido de nombre  ejemplo v-directiva
 
 **v-on:click** 
 
+para escuchar el **click** en su defecto se puede usar @click="metodo que se va a llamar"
+
 ```text
 <button class="btn btn-primary btn-md" @click="addnewtask">+</button>
 
@@ -81,10 +85,62 @@ las directivas  inician con la letra V  y seguido de nombre  ejemplo v-directiva
           },
 ```
 
+```text
+@click="messages.Completa = false"
+---------------------------------------------
+
+ task: [
+          { nombre: "mi z", Completa: true },
+          { nombre: "mi 2", Completa: false },
+          { nombre: "mi 3", Completa: true },
+          { nombre: "mi 5", Completa: true },
+```
+
 **v-on:keyup**
+
+para escuchar la teclado
 
 ```text
  <input  v-on:keyup.enter="addnewtask" 
   class="form-control" v-model="newtask" type="text" />
+```
+
+**v-html**
+
+para imprimir codigo **html** 
+
+```text
+V-html ="varhtml"
+
+varhtml:"<p>texto html<p>
+```
+
+**v-text**
+
+para imprimir  texto y evitar error de cargue del texto cuando se usa {{variable}}
+
+```text
+v-text = "variable"
+```
+
+**imprimir mayúscula**
+
+```text
+{{message.uppercase()}}
+----------------------------------
+
+añadir decimal  valor: 500
+
+{{valor.tofixed(2)}}  se imprime 500,00
+```
+
+ **condicional** 
+
+```text
+{{ activo ? "si esta activo" : "no esta activo"}}
+
+----variable booleana-------
+
+activo : true ,
 ```
 
